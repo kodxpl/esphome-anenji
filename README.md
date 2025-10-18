@@ -1,12 +1,9 @@
 # esphome-smg-ii
 
-![GitHub actions](https://github.com/syssi/esphome-smg-ii/actions/workflows/ci.yaml/badge.svg)
-![GitHub stars](https://img.shields.io/github/stars/syssi/esphome-smg-ii)
-![GitHub forks](https://img.shields.io/github/forks/syssi/esphome-smg-ii)
-![GitHub watchers](https://img.shields.io/github/watchers/syssi/esphome-smg-ii)
-[!["Buy Me A Coffee"](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/syssi)
+Forked from syssi/esphome-smg-ii
 
 ESPHome configuration to monitor and control a ISolar/EASUN SMG II inverter via RS232
+added Anenji support
 
 ## Supported devices
 
@@ -14,6 +11,7 @@ ESPHome configuration to monitor and control a ISolar/EASUN SMG II inverter via 
 * EASUN SMG II
 * SMG III 6.2kW 48V (mostly supported, some registers may not work)
 * PowMr POW-HVM5.5K-48V / POW-HVM5.5K-48V-P
+* Anenji 6.2kW
 
 ## Requirements
 
